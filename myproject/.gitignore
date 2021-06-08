@@ -90,7 +90,6 @@ celerybeat-schedule
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -120,4 +119,6 @@ dmypy.json
 .idea/
 
 migrations
+
+.DS_Store
 
